@@ -1,7 +1,7 @@
-# shahed
+# fayoumMap
 
-A new Flutter project.
-
+A new Flutter project.   
+here i using flutter map and geolocation to show map in screen and to get latude and logtude to put marker where i am in map .   
 ## Getting Started
 
 This project is a starting point for a Flutter application.
